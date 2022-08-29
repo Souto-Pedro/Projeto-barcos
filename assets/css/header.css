@@ -3,6 +3,10 @@ header, .navbar{
    
 }
 
+header>.container{
+    padding: 0;
+}
+
 #logo{
     width: 75px;
     border-radius: 100%;
@@ -26,6 +30,7 @@ header, .navbar{
     font-size: 23px;
     float:right;
     padding-left: 20px;
+    
 }
 #navbar-links a:hover{
     background-color: rgb(255, 255, 255);
